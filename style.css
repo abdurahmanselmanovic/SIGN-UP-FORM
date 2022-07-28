@@ -11,7 +11,7 @@
 	width: 55%;
 }
 .main h1 {
-	font-weight: 800;
+	font-weight: 700;
 	text-transform: uppercase;
 	color: rgb(32, 32, 99);
 	text-align: center;
@@ -46,7 +46,7 @@
 }
 .main a {
 	margin-left: 200px;
-
+	margin-top: 10px;
 	text-decoration: none;
 }
 .section {
